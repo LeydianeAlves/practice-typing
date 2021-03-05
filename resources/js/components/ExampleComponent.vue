@@ -1,7 +1,7 @@
 <template>
     <div class="">
         <div class="row justify-content-center">
-            <div class="col-xs-10 col-sm-10 col-md-10">
+            <div class="col-xs-10 col-sm-10 col-md-6">
                 <div class="">
                     <h1>Practice typing here</h1>
                     <br>

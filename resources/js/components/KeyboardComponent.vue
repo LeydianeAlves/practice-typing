@@ -3,7 +3,7 @@
     <div class="display">
         <div class="textarea">
             Level: {{ level }} Wrong: {{ wrongAnswersCount }}
-            <div class="float"><i class="fas fa-cogs"></i></div>
+            <!-- <div class="float"><i class="fas fa-cogs"></i></div> -->
             <p ref="textarea" :style="textColor">
                 {{ keyPressed || "Click here and start typing..." }}
             </p>

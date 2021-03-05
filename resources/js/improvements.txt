@@ -1,0 +1,3 @@
+ways to improve:
+    *make keys into object which includes an ref: ref, keyO: keyO, disabled: true/false
+    and set the values to be the key object with vue element v-bind
